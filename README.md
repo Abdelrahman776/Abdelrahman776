@@ -1,9 +1,9 @@
 ![3r4m6m (1)](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)
 <br>
 <h1 align="center">Hi 👋, I'm Abdelrahman kamal</h1>
-<h3 align="center">A passionate biomedical Engineering student from Egypt 💻</h3>
+<h3>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ahmedr2001&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedr2001" /> </p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdelrahman776&label=Profile%20views&color=0e75b6&style=flat" alt="abd" /> </p> -->
 
 - 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: <br>
 
