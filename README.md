@@ -1,6 +1,3 @@
-<!-- ![3r4m6m (1)](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)
-<br> -->
-
 <div align="center">
   <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="progstranaut" />
 </div>
@@ -10,8 +7,7 @@
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdelrahman776&label=Profile%20views&color=0e75b6&style=flat" alt="abd" /> </p> -->
 
-- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush:,[MY
-Resume](). <br>
+- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush:. <br>
 
 - 🌱 I’m currently learning **Front-end, React and problem solving**
 
