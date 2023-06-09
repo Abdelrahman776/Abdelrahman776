@@ -1,15 +1,21 @@
-![3r4m6m (1)](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)
-<br>
+<!-- ![3r4m6m (1)](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)
+<br> -->
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="progstranaut" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Abdelrahman kamal</h1>
 <h3>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h3>
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdelrahman776&label=Profile%20views&color=0e75b6&style=flat" alt="abd" /> </p> -->
 
-- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: <br>
+- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush:,[MY
+Resume](). <br>
 
-- 🌱 I’m currently learning **WebRTC, WebSockets, and Advanced Algorithms**
+- 🌱 I’m currently learning **Front-end, React and problem solving**
 
-- 💬 Ask me about **C++, Python, JS, Data Structures, Algorithms, Node.js and Express.js, React.js**
+- 💬 Ask me about **C++, Python, JS,  React.js, Data Structures, Algorithms**
 
 - ✋ How to reach me **abdelrahmannkamal@gmail.com**
 
