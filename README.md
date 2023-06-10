@@ -4,8 +4,7 @@
 
 <h1 align="center" >Hi , I'm <a href="https://www.linkedin.com/in/abdelrahmannkamal/"> Abdelrahman kamal </a></h1>
 <h3>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h3>
-
-
+<img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/>
 
 - 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: --> [My Resume]() <br>
 
