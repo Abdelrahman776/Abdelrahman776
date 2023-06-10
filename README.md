@@ -3,6 +3,8 @@
 </div>
 <h1 align="center" >Hi , I'm <a href="https://www.linkedin.com/in/abdelrahmannkamal/"> Abdelrahman kamal </a></h1>
 <h3>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h3>
+<br/>
+<br/>
 <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/>
 
 - 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: --> [My Resume]() 
@@ -11,7 +13,7 @@
 - 💬 Ask me about **C++, Python, JS,  React.js, Data Structures, Algorithms**
 - 😎 Always learning new things
 - ✋ How to reach me **abdelrahmannkamal@gmail.com**
-- <br/>
+ <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahmannkamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmannkamal" height="30" width="40" /></a>
