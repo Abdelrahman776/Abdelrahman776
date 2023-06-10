@@ -63,10 +63,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman776&theme=tokyonight" alt="Abdelrahman776" /></p>
  
   <div align="center">
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/Abdelrahman776/count.svg)
-  
-<!--    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2BA4F7&center=true&width=1000&lines=One+day+I'll+own+a+leading+software;Company%2C+And+I+will+write+my+name+in;History+books%2C+So+have+the+chance+to+;contact+me+now%2C+before+you+miss+this;chance.+;Welcome+To+Zizo's+WorkHouse!)](https://git.io/typing-svg) -->
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdelrahman776&label=Profile%20views&color=0e75b6&style=flat" alt="abd" /> </p> -->
+   -->
+
