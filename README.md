@@ -6,18 +6,19 @@
 <h3>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h3>
 <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/>
 
-- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: --> [My Resume]() <br>
+- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: --> [My Resume]() 
 
 - 🌱 I’m currently learning **Front-end, React and problem solving**
 - 💬 Ask me about **C++, Python, JS,  React.js, Data Structures, Algorithms**
 - 😎 Always learning new things
 - ✋ How to reach me **abdelrahmannkamal@gmail.com**
+- <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed asaad darwish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed asaad darwish" height="30" width="40" /></a>
-   <a href="https://codeforces.com/profile/a.asaad22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.asaad22" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmedasad236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedasad236" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/a.asaad22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="a.asaad22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelrahmannkamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmannkamal" height="30" width="40" /></a>
+   <a href="https://www.facebook.com/profile.php?id=100076965666386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abdelrahmann_kamal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Abdurahman_kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Abdurahman_kamal" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Abdelrahmann_kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Abdelrahmann_kamal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdelrahmannkamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelrahmannkamal" height="30" width="40" /></a>
 </p>
 
@@ -51,13 +52,14 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
- <br>
+ <br/>
   
   
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedr2001&langs_count=9&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman776&langs_count=9&theme=tokyonight&layout=compact" alt="Abdelrahman776 :: Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedr2001&show_icons=true&locale=en&theme=tokyonight" alt="ahmedr2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman776&show_icons=true&locale=en&theme=tokyonight" alt="Abdelrahman776" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedr2001&theme=tokyonight" alt="ahmedr2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman776&theme=tokyonight" alt="Abdelrahman776" /></p>
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2BA4F7&center=true&width=1000&lines=One+day+I'll+own+a+leading+software;Company%2C+And+I+will+write+my+name+in;History+books%2C+So+have+the+chance+to+;contact+me+now%2C+before+you+miss+this;chance.+;Welcome+To+Zizo's+WorkHouse!)](https://git.io/typing-svg)
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Abdelrahman776&label=Profile%20views&color=0e75b6&style=flat" alt="abd" /> </p> -->
