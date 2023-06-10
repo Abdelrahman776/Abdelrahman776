@@ -1,7 +1,6 @@
 <div align="center">
-  <img  width="900"height="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="progstranaut" />
+  <img  width="900"height="365" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="progstranaut" />
 </div>
-
 <h1 align="center" >Hi , I'm <a href="https://www.linkedin.com/in/abdelrahmannkamal/"> Abdelrahman kamal </a></h1>
 <h3>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h3>
 <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/>
