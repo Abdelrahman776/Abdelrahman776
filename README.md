@@ -61,8 +61,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman776&show_icons=true&locale=en&theme=tokyonight" alt="Abdelrahman776" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman776&theme=tokyonight" alt="Abdelrahman776" /></p>
- 
-  <div align="center">
+ <br/>
+  
+    
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=950&color=B12EB3&center=true&width=455&lines=Thanks+for+visiting+me" alt="Typing SVG" /></a>
+  
+<!--   <div align="center">
+  </div> -->
 <!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
