@@ -58,10 +58,10 @@
   
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman776&langs_count=9&theme=tokyonight&layout=compact" alt="Abdelrahman776 :: Top Langs" /></p>
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman776&show_icons=true&locale=en&theme=tokyonight" alt="Abdelrahman776" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman776&theme=tokyonight" alt="Abdelrahman776" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman776&theme=tokyonight" alt="Abdelrahman776" /></p>-->
  <br/>
   
     
