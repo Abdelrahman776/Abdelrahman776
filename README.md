@@ -1,5 +1,5 @@
 <div align="center">
-  <img  width="900"src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="progstranaut" />
+<!--   <img  width="900"src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="progstranaut" /> -->
 </div>
 <h1 align="center" >Hi , I'm <a href="https://www.linkedin.com/in/abdelrahmannkamal/"> Abdelrahman kamal </a></h1>
 <h3>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h3>
@@ -10,7 +10,7 @@
 - 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: --> [My Resume]() 
 
 - 🌱 I’m currently learning **Front-end, React and problem solving**
-- 💬 Ask me about **C++, Python, JS,  React.js, Data Structures, Algorithms**
+- 💬 Ask me about **C++, Python, JS,  Angular, Data Structures, Algorithms**
 - 😎 Always learning new things
 - ✋ How to reach me **abdelrahmannkamal@gmail.com**
  <br/>
@@ -35,7 +35,8 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/4dfae6fa-42ba-4248-a25e-66666b4f7f13" alt="react" width="40" height="40"/> </a>
+
    
    
    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
