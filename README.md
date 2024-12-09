@@ -3,9 +3,7 @@
 </div>
 <h1 align="center" >Hi , I'm <a href="https://www.linkedin.com/in/abdelrahmannkamal/"> Abdelrahman kamal </a></h1>
 <h4>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h4>
-<br/>
-<br/>
-<img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/>
+<!-- <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/> -->
 
 <!--- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: [My Resume]()  -->
 
@@ -14,11 +12,11 @@
 <!-- - 😎 Always learning new things -->
 <!-- - ✋ How to reach me -->
  <br/>
-<h3 align="left">Connect with me:</h3>
+### 📞 Contact Me
 <p align="left">
- - **abdelrahmannkamal@gmail.com**
+ - ** abdelrahmannkamal@gmail.com **
  <br/>
- - **abdelrahman.mohamed016@eng-st.cu.edu.eg**
+ - abdelrahman.mohamed016@eng-st.cu.edu.eg 
   <br/>
 
 <a href="https://linkedin.com/in/abdelrahmannkamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmannkamal" height="30" width="40" /></a>
@@ -32,7 +30,8 @@
    
    
  </br>
-<h3 align="left">Languages and Tools <img  align="center"width="30" alt="tools"   src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" /></h3>
+<!-- <h3 align="left">Languages and Tools <img  align="center"width="30" alt="tools"   src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" /></h3> -->
+### ⚡ Technologies
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
