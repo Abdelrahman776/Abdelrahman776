@@ -2,20 +2,24 @@
 <!--   <img  width="900"src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="progstranaut" /> -->
 </div>
 <h1 align="center" >Hi , I'm <a href="https://www.linkedin.com/in/abdelrahmannkamal/"> Abdelrahman kamal </a></h1>
-<h3>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h3>
+<h4>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h4>
 <br/>
 <br/>
 <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/>
 
-- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: --> [My Resume]() 
+<!--- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: --> [My Resume]()  -->
 
-- 🌱 I’m currently learning **Front-end, React and problem solving**
-- 💬 Ask me about **C++, Python, JS,  Angular, Data Structures, Algorithms**
-- 😎 Always learning new things
-- ✋ How to reach me **abdelrahmannkamal@gmail.com**
+- 🌱 I’m currently learning **more about VR , AI and utilizing deeplearning in 3d reconstruction and medical visualization**
+<!-- - 💬 Ask me about **C++, Python, JS,  Angular, Data Structures, Algorithms**-->
+<!-- - 😎 Always learning new things -->
+<!-- - ✋ How to reach me -->
  <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ - **abdelrahmannkamal@gmail.com**
+ - **abdelrahman.mohamed016@eng-st.cu.edu.eg**
+  <br/>
+
 <a href="https://linkedin.com/in/abdelrahmannkamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmannkamal" height="30" width="40" /></a>
    <a href="https://www.facebook.com/profile.php?id=100076965666386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abdelrahmann_kamal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Abdurahman_kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Abdurahman_kamal" height="30" width="40" /></a>
