@@ -16,10 +16,10 @@ I am a Systems and Biomedical Engineering Student at Cairo University with a pas
  
 ### 📞 Contact Me
 
-- [![abdelrahmannkamal@gmail.com ](https://img.shields.io/badge/-abdelrahmannkamal@gmail.com -2523e7?style=flat-square&logo=IEEE&logoColor=white&link=mailto:abdelrahmannkamal@gmail.com g)](mailto:abdelrahmannkamal@gmail.com )
+- [abdelrahmannkamal@gmail.com ](mailto:abdelrahmannkamal@gmail.com )
  
  <br/>
- - abdelrahman.mohamed016@eng-st.cu.edu.eg 
+ - [ abdelrahman.mohamed016@eng-st.cu.edu.eg ](mailto:abdelrahman.mohamed016@eng-st.cu.edu.eg )
   <br/>
 
 <a href="https://linkedin.com/in/abdelrahmannkamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmannkamal" height="30" width="40" /></a>
@@ -48,7 +48,7 @@ I am a Systems and Biomedical Engineering Student at Cairo University with a pas
 
    
    
-   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <!-- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
