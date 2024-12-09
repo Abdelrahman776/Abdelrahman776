@@ -2,12 +2,13 @@
 <!--   <img  width="900"src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="progstranaut" /> -->
 </div>
 <h1 align="center" >Hi , I'm <a href="https://www.linkedin.com/in/abdelrahmannkamal/"> Abdelrahman kamal </a></h1>
-<h4>A Systems and Biomedical Engineering Student with a passion for  Software Engineering 💻</h4>
+<h4>
+</h4>
 <!-- <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/> -->
 
 <!--- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: [My Resume]()  -->
-
-- 🌱 I’m currently learning **more about VR , AI and utilizing deeplearning in 3d reconstruction and medical visualization**
+I am a Systems and Biomedical Engineering Student at Cairo University with a passion for  Software Engineering 💻 and Ai
+🌱 I’m currently learning **more about VR  and utilizing deeplearning in 3d reconstruction and medical visualization**
 <!-- - 💬 Ask me about **C++, Python, JS,  Angular, Data Structures, Algorithms**-->
 <!-- - 😎 Always learning new things -->
 <!-- - ✋ How to reach me -->
@@ -15,8 +16,8 @@
  
 ### 📞 Contact Me
 
-<p align="left">
- - ** abdelrahmannkamal@gmail.com **
+- [![abdelrahmannkamal@gmail.com ](https://img.shields.io/badge/-abdelrahmannkamal@gmail.com -2523e7?style=flat-square&logo=IEEE&logoColor=white&link=mailto:abdelrahmannkamal@gmail.com g)](mailto:abdelrahmannkamal@gmail.com )
+ 
  <br/>
  - abdelrahman.mohamed016@eng-st.cu.edu.eg 
   <br/>
