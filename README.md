@@ -7,7 +7,7 @@
 <br/>
 <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/>
 
-<!--- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: --> [My Resume]()  -->
+<!--- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: [My Resume]()  -->
 
 - 🌱 I’m currently learning **more about VR , AI and utilizing deeplearning in 3d reconstruction and medical visualization**
 <!-- - 💬 Ask me about **C++, Python, JS,  Angular, Data Structures, Algorithms**-->
@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  - **abdelrahmannkamal@gmail.com**
+ <br/>
  - **abdelrahman.mohamed016@eng-st.cu.edu.eg**
   <br/>
 
