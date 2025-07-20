@@ -7,7 +7,7 @@
 <!-- <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/> -->
 
 <!--- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: [My Resume]()  -->
-I am a Systems and Biomedical Engineering Student at Cairo University with a passion for  Software Engineering 💻 and Ai
+I am a Systems and Biomedical Engineering Graduate from Cairo University with a passion for  Software Engineering 💻 and Ai
 <!-- 🌱 I’m currently learning **more about VR  and utilizing deeplearning in 3d reconstruction and medical visualization** -->
 <!-- - 💬 Ask me about **C++, Python, JS,  Angular, Data Structures, Algorithms**-->
 <!-- - 😎 Always learning new things -->
