@@ -7,25 +7,28 @@
 <!-- <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/> -->
 
 <!--- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: [My Resume]()  -->
-I am a Systems and Biomedical Engineering Graduate from Cairo University with a passion for  Software Engineering 💻 and Ai
+I am a Software and Biomedical Engineering Graduate from Cairo University with a passion for  Software Engineering 💻, AI and Game Dev
 <!-- 🌱 I’m currently learning **more about VR  and utilizing deeplearning in 3d reconstruction and medical visualization** -->
 <!-- - 💬 Ask me about **C++, Python, JS,  Angular, Data Structures, Algorithms**-->
- - 😎 Always learning new things and always love colaborating and working on projects
+ - Always learning new things and  love to colaborate and work on projects
 <!-- - ✋ How to reach me -->
  <br/>
 
- <img align="right"  src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/> 
+ <img  align="center" src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/> 
  
+<!--
 ### 📞 Contact Me
 
 - [abdelrahmannkamal@gmail.com ](mailto:abdelrahmannkamal@gmail.com )
  
  
  <!-- - [abdelrahman.mohamed016@eng-st.cu.edu.eg ](mailto:abdelrahman.mohamed016@eng-st.cu.edu.eg )
-    -->
+   
   <br/>
 
 - <a href="https://linkedin.com/in/abdelrahmannkamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmannkamal" height="30" width="40" /></a>
+ -->
+
  <!--  <a href="https://www.facebook.com/profile.php?id=100076965666386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abdelrahmann_kamal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Abdurahman_kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Abdurahman_kamal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Abdelrahmann_kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Abdelrahmann_kamal" height="30" width="40" /></a>
