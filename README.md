@@ -18,6 +18,7 @@
 
  
  - Always learning new things and  love to colaborate and work on projects
+ - Building AI data extraction  and Digital transformation tools.
 <!--
 ### 📞 Contact Me
 
