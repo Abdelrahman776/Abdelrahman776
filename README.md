@@ -9,7 +9,7 @@
 <!--- 📬 Currently open for an `An Intern` or a new `Job Opportunity` :blush: [My Resume]()  -->
  <img  align="right" src="https://64.media.tumblr.com/802878aa9fbddcabf80a9dc6018b8a87/tumblr_o52t38vsJU1uqrdeoo1_400.gifv"/> 
  
-- I am a Software and Biomedical Engineering Graduate from Cairo University with a passion for  Software Engineering 💻, AI and Game Dev
+- I am currently a Msc student at genova university and a Software and Biomedical Engineering Graduate from Cairo University with a passion for  Software Engineering 💻, AI and Game Dev
 <!-- 🌱 I’m currently learning **more about VR  and utilizing deeplearning in 3d reconstruction and medical visualization** -->
 <!-- - 💬 Ask me about **C++, Python, JS,  Angular, Data Structures, Algorithms**-->
 <!-- - ✋ How to reach me 
